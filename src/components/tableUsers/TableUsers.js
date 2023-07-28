@@ -16,8 +16,6 @@ const TableUsers = (props) => {
     }
   };
 
-  console.log(listUsers);
-
   return (
     <>
       <Table striped bordered hover>
